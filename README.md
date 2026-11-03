@@ -42,6 +42,8 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
   <title>
     DEVICE DETAILS
   </title>
+  <h1 align="center"><b>M.K JEEVITH</b></h1><br>
+  <h1 align="center"><b>26018300</b></h1>
 </head>
 <body bgcolor="#f8f8ff" >
 <h1 align="center"><b>DEVICE SPECIFICATIONS</b></h1>
@@ -93,16 +95,18 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
   </tr>
   <tr>
     <td algin="center">ACER</td>
-    <td algin="center">200000</td>
-    <td algin="center">Operating System: Windows 11 Home, 64-bit
-      Processor: Intel Core i7-14650 HX processor
-      Memory: 16 GB DDR5 RAM, Upgradable up to 32 GB
-      Storage: 1 TB PCIe Gen 4 NVMe SSD,Upgradable up to 2 TB
-      Graphics: NVIDIA GeForce RTX 5070 Laptop with 8 GB GDDR7 VRAM
-      Display: 16.0-inch WQXGA (2560 x 1600) IPS Display, 180 Hz Refresh Rate, 3 ms Response Time, 100% sRGB.
-      Battery: 92 Wh 4-cell Li-ion battery with up to 5 hours backup
-      Color: Abyss Black</td>
-    <td algin="center"><a href="https://store.acer.com/en-in/acer-predator-helios-neo-16-gaming-laptop-windows-11-home-ms-office-nvidia-geforce-rtx-5070-laptop-gpu-with-8gb-gddr7-vram-16gb-ram-1tb-ssd-16-0-40-64-cm-display-abyss-black-phn16-i31-2-5-kg-rgb-backlight-keyboard?utm_term=" title="acer laptop" target="_blank">buy here</a></td>
+    <td algin="center">175000</td>
+    <td algin="center">Device name	TL15-53M-G2
+Processor	Intel(R) Core(TM) 5 210H (2.20 GHz)
+Installed RAM	16.0 GB (15.7 GB usable)
+Graphics card	Intel(R) Graphics (128 MB)
+Storage	222 GB of 477 GB used
+Device ID	816B0766-5A3D-4C18-91F3-3A76FB449293
+Product ID	00342-42945-51960-AAOEM
+System type	64-bit operating system, x64-based processor
+Pen and touch	No pen or touch input is available for this display
+</td>
+    <td algin="center"><a href=https://www.amazon.in/Acer-TravelLite-Bussines-TL04-51M-36JSI-005/dp/B0GRG7ZHZ6 title="acer laptop" target="_blank">buy here</a></td>
   </tr>
   <tr>
     <td algin="center">DELL</td>
@@ -155,9 +159,9 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## OUTPUT:
 WEB PAGE
-![alt text](<Screenshot (39).png>)
+![alt text](<Screenshot (41).png>)
 
 WEB SERVER
-![alt text](<Screenshot (40).png>)
+![alt text](<Screenshot (42).png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
