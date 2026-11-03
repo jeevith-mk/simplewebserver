@@ -154,7 +154,10 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 ```
 
 ## OUTPUT:
+WEB PAGE
 ![alt text](<Screenshot (39).png>)
+
+WEB SERVER
 ![alt text](<Screenshot (40).png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
