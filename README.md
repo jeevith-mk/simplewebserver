@@ -159,9 +159,9 @@ Pen and touch	No pen or touch input is available for this display
 
 ## OUTPUT:
 WEB PAGE
-![alt text](<Screenshot (41).png>)
+![alt text](<Screenshot (45).png>)
 
 WEB SERVER
-![alt text](<Screenshot (42).png>)
+![alt text](<Screenshot (44).png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
