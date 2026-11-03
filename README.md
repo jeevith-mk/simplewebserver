@@ -159,7 +159,7 @@ Pen and touch	No pen or touch input is available for this display
 
 ## OUTPUT:
 WEB PAGE
-![alt text](<Screenshot (45).png>)
+![alt text](<Screenshot (43).png>)
 
 WEB SERVER
 ![alt text](<Screenshot (44).png>)
